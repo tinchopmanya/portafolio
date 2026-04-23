@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Stack",
+    "contact": "Contact",
+    "toggleTheme": "Toggle theme",
+    "toggleLanguage": "Toggle language"
+  },
+  "hero": {
+    "eyebrow": "Senior Developer",
+    "name": "Martín Franco",
+    "titleA": "Senior .NET engineer",
+    "titleB": "integrating applied AI",
+    "tagline": "15+ years building enterprise software for healthcare and social security. Today I pair a solid .NET foundation with hands-on LLM, RAG and MCP integration to accelerate teams and products.",
+    "primaryCta": "View projects",
+    "secondaryCta": "Get in touch",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title": "About",
+    "kicker": "Profile",
+    "paragraph1": "Senior developer with over 15 years of experience in .NET, focused on critical systems for healthcare and social security. I design, build and maintain full-stack solutions end-to-end, from data modeling to UI.",
+    "paragraph2": "In recent years I added code assistants (Copilot, Claude, Codex), RAG patterns, the MCP protocol and n8n automations to my daily workflow. That combination lets me ship more value with less friction while keeping quality standards high.",
+    "paragraph3": "Curious by nature, I am currently exploring Next.js, FastAPI and Supabase for side projects, and I enjoy technical mentoring inside the team.",
+    "highlights": {
+      "exp": "15+ years",
+      "expLabel": "in .NET development",
+      "domain": "Health · BPS",
+      "domainLabel": "critical domains",
+      "ai": "Applied AI",
+      "aiLabel": "RAG · MCP · LLMs"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "kicker": "Career",
+    "present": "Present",
+    "educationTitle": "Education"
+  },
+  "projects": {
+    "title": "Projects",
+    "kicker": "Selected work",
+    "intro": "A selection of projects that represent the profile. Client specifics are kept confidential under NDAs.",
+    "viewCase": "View details",
+    "tech": "Stack",
+    "role": "Role",
+    "year": "Year",
+    "back": "Back"
+  },
+  "skills": {
+    "title": "Stack",
+    "kicker": "Toolbox",
+    "intro": "Technologies I use daily, grouped by area."
+  },
+  "contact": {
+    "title": "Let's talk",
+    "kicker": "Contact",
+    "intro": "Open to remote opportunities and collaborations that combine solid .NET with applied AI.",
+    "emailCta": "Send email",
+    "linkedinCta": "LinkedIn",
+    "githubCta": "GitHub",
+    "location": "Las Piedras, Canelones — Uruguay"
+  },
+  "footer": {
+    "built": "Built with Next.js, Tailwind and R3F.",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "notFound": "Page not found",
+    "backHome": "Back to home"
+  }
+}

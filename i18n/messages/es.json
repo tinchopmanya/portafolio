@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "skills": "Stack",
+    "contact": "Contacto",
+    "toggleTheme": "Cambiar tema",
+    "toggleLanguage": "Cambiar idioma"
+  },
+  "hero": {
+    "eyebrow": "Desarrollador Senior",
+    "name": "Martín Franco",
+    "titleA": ".NET senior",
+    "titleB": "integrando IA aplicada",
+    "tagline": "15+ años construyendo software empresarial en los sectores salud y seguridad social. Hoy combino una base sólida en .NET con integración práctica de LLMs, RAG y MCP para acelerar equipos y productos.",
+    "primaryCta": "Ver proyectos",
+    "secondaryCta": "Contacto",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "kicker": "Perfil",
+    "paragraph1": "Desarrollador senior con más de 15 años de experiencia en .NET, enfocado en sistemas críticos para salud y seguridad social. Diseño, construyo y mantengo soluciones full-stack desde el modelado de datos hasta la interfaz.",
+    "paragraph2": "En los últimos años sumé al flujo diario asistentes de código (Copilot, Claude, Codex), patrones RAG, el protocolo MCP y automatizaciones con n8n. Esa combinación me permite entregar más valor con menos fricción, manteniendo estándares de calidad.",
+    "paragraph3": "Curioso por naturaleza, actualmente exploro Next.js, FastAPI y Supabase para proyectos propios, y disfruto de la mentoría técnica dentro del equipo.",
+    "highlights": {
+      "exp": "15+ años",
+      "expLabel": "en desarrollo .NET",
+      "domain": "Salud · BPS",
+      "domainLabel": "dominios críticos",
+      "ai": "IA aplicada",
+      "aiLabel": "RAG · MCP · LLMs"
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "kicker": "Trayectoria",
+    "present": "Presente",
+    "educationTitle": "Formación"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "kicker": "Selección",
+    "intro": "Una selección de proyectos representativos del perfil. Los detalles de clientes se mantienen reservados por acuerdos de confidencialidad.",
+    "viewCase": "Ver detalle",
+    "tech": "Stack",
+    "role": "Rol",
+    "year": "Año",
+    "back": "Volver"
+  },
+  "skills": {
+    "title": "Stack",
+    "kicker": "Herramientas",
+    "intro": "Tecnologías con las que trabajo día a día, organizadas por área."
+  },
+  "contact": {
+    "title": "Conversemos",
+    "kicker": "Contacto",
+    "intro": "Abierto a oportunidades remotas y colaboraciones que combinen .NET sólido con IA aplicada.",
+    "emailCta": "Enviar email",
+    "linkedinCta": "LinkedIn",
+    "githubCta": "GitHub",
+    "location": "Las Piedras, Canelones — Uruguay"
+  },
+  "footer": {
+    "built": "Construido con Next.js, Tailwind y R3F.",
+    "rights": "Todos los derechos reservados."
+  },
+  "common": {
+    "notFound": "Página no encontrada",
+    "backHome": "Volver al inicio"
+  }
+}
